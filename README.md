@@ -1,4 +1,3 @@
-
 <!-- Your Info. -->
 <h1 align="center">Hi 👋, I'm Aryan</h1>
 <h3 align="center">MERN Stack Developer building clean, user-focused, and scalable web applications.</h3>
